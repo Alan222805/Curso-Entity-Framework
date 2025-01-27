@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\curso_EntityFramework.props" />
+</Project>
