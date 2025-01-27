@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("curso_EntityFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+129c06f61a8c90b550e0d340b51674948c0a4a73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef41b9848feb5d60b3c388df24d89aefa4ca5126")]
 [assembly: System.Reflection.AssemblyProductAttribute("curso_EntityFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("curso_EntityFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
